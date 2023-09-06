@@ -5,40 +5,40 @@
 <!-- Profile Views Counter -->
 <p align="center"> 
     <img 
-    src="https://komarev.com/ghpvc/?username=sanjayguwaju&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="sanjayguwaju"
+    src="https://komarev.com/ghpvc/?username=smriteemanandhar&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="smriteemanandhar"
     height="35"
     width="200"/> 
 </p>
 
 <p align="center">
     <img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=sanjayguwaju&show_icons=true&locale=en" 
-    alt="sanjayguwaju" />
+    src="https://github-readme-stats.vercel.app/api?username=smriteemanandhar&show_icons=true&locale=en" 
+    alt="smriteemanandhar" />
 </p>
 
 <!-- Twitter Badge -->
-<p align="left"> 
-    <a href="https://twitter.com/sanjayguwaju" target="blank">
-        <img 
-        src="https://img.shields.io/twitter/follow/sanjayguwaju?logo=twitter&style=for-the-badge" 
-        alt="sanjayguwaju"
+<!-- <p align="left">
+    <a href="https://twitter.com/smriteemanandhar" target="blank">
+        <img
+        src="https://img.shields.io/twitter/follow/smriteemanandhar?logo=twitter&style=for-the-badge"
+        alt="smriteemanandhar"
         height="35"
          />
-    </a> 
-</p>
+    </a>
+</p> -->
 
 <!-- About Me and Skills -->
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://www.sanjayguwaju.com.np/](https://www.sanjayguwaju.com.np/)
+- 👨‍💻 All of my projects are available at [https://www.smritimanandhar.com.np/](https://www.smritimanandhar.com.np/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Node.js, React, Postgres, MongoDB, Git, etc.**
+- 💬 Ask me about **HTML, CSS, Javascript, Node.js, React, MongoDB, Git, etc.**
 
-- 📫 How to reach me **sanjayguwaju@gmail.com**
+- 📫 How to reach me **smriteemanandhar@gmail.com**
 
-- 📄 Know about my experiences [https://www.sanjayguwaju.com.np/](https://www.sanjayguwaju.com.np/)
+- 📄 Know about my experiences [https://www.smritimanandhar.com.np/](https://www.smritimanandhar.com.np/)
 
 - ⚡ Fun fact **I have a good sense of humor && I am good at connecting with people.**
 
@@ -46,34 +46,34 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a 
-    href="https://codepen.io/sanjayguwaju" 
+    href="https://codepen.io/smriteemanandhar" 
     target="blank"><img align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" 
-    alt="sanjayguwaju" 
+    alt="smriteemanandhar" 
     height="30" 
     width="40" 
 /></a><a 
-    href="https://dev.to/sanjayguwaju" 
+    href="https://dev.to/smriteemanandhar" 
     target="blank"><img align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" 
-    alt="sanjayguwaju" 
+    alt="smriteemanandhar" 
     height="30" 
     width="40" 
 /></a><a 
-    href="https://twitter.com/sanjayguwaju" 
+    href="https://twitter.com/smriteemanandhar" 
     target="blank"><img align="center" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjayguwaju" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smriteemanandhar" 
     height="30" 0
     width="40" 
 /></a><a
-    href="https://linkedin.com/in/sanjayguwaju"
+    href="https://linkedin.com/in/smriteemanandhar"
     target="blank"><img align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-    alt="sanjayguwaju" 
+    alt="smriteemanandhar" 
     height="30" 
     width="40" 
 /></a><a 
-    href="https://stackoverflow.com/users/sanjayguwaju" 
+    href="https://stackoverflow.com/users/smriteemanandhar" 
     target="blank"><img align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
     alt="sanjayguwaju" 
@@ -287,6 +287,6 @@
 
 <p align="center">
     <img align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayguwaju&" 
-    alt="sanjayguwaju" />
+    src="https://github-readme-streak-stats.herokuapp.com/?user=smriteemanandhar&" 
+    alt="smriteemanandhar" />
 </p>
