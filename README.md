@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Sanjay Guwaju</h1>
+<h1 align="center">Hi 👋, I'm Smriti Manandhar</h1>
 <h3 align="center">A passionate full-stack developer from Nepal.</h3>
 
 <!-- Profile Views Counter -->
