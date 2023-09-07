@@ -45,7 +45,7 @@
 <!-- Connect with Me Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a 
+<!-- <a 
     href="https://codepen.io/smriteemanandhar" 
     target="blank"><img align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" 
@@ -65,14 +65,16 @@
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smriteemanandhar" 
     height="30" 0
     width="40" 
-/></a><a
+/></a> -->
+<a
     href="https://linkedin.com/in/smriteemanandhar"
     target="blank"><img align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
     alt="smriteemanandhar" 
     height="30" 
     width="40" 
-/></a><a 
+/></a>
+<!-- <a 
     href="https://stackoverflow.com/users/smriteemanandhar" 
     target="blank"><img align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
@@ -128,7 +130,7 @@
     height="30" 
     width="40" 
 /></a>
-</p>
+</p> -->
 
 <!-- Languages and Tools Section -->
 <!-- <h3 align="left">Languages and Tools:</h3>
