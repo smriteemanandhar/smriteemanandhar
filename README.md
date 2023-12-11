@@ -34,7 +34,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://www.smritimanandhar.com.np/](https://www.smritimanandhar.com.np/) -->
 
-- 💬 Ask me about **HTML, CSS, Javascript, Git, C#, OOP**
+- 💬 We can talk on **HTML, CSS, Javascript, Git, C#, OOP**
 
 - 📫 How to reach me **smriteemanandhar@gmail.com**
 
